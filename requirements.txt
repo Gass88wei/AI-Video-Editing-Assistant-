@@ -1,0 +1,10 @@
+moviepy==2.0.0.dev2
+pydub==0.25.1
+python-docx==0.8.11
+mutagen==1.46.0
+opencv-python==4.7.0.72
+numpy==1.24.2
+gradio-client==0.2.9
+PyQt5==5.15.9
+qfluentwidgets==1.3.2
+Pillow==10.0.0

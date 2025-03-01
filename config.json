@@ -1,0 +1,8 @@
+{
+    "context_length": 2048,
+    "temperature": 0.7,
+    "tts_server_url": "http://localhost:7860",
+    "voice_name": "am_adam",
+    "voice_speed": 1.0,
+    "output_path": "output"
+}
